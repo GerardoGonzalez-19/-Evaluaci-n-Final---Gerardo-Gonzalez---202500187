@@ -1,5 +1,4 @@
 # -Evaluacion-Final-Gerardo-Gonzalez-202500187
-# Examen Final - Estructuras de Datos
 
 ## Información del Estudiante
 
